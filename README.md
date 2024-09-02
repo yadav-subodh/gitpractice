@@ -5,10 +5,10 @@ Use in git practice
 2. download the git accordingly your os
 ## What is GutHub
 <center>GitHub is a centeral repository </center>
-- Other Centeral Repository are
-  - Gitlab
-  - SVN
-  - BitBucket
-  - TFS
-  - CleareCase
+##Other Centeral Repository are
+  -Gitlab
+  -SVN
+  -BitBucket
+  -TFS
+  -CleareCase
 
