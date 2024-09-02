@@ -8,9 +8,9 @@ Use in git practice
 
 
 ## Other Centeral Repository are
-  -Gitlab
-  -SVN
-  -BitBucket
-  -TFS
-  -CleareCase
+  + Gitlab
+  + SVN
+  + BitBucket
+  + TFS
+  + CleareCase
 
